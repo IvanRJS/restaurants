@@ -5,7 +5,7 @@ import { Icon } from 'react-native-elements'
 
 
 import Restaurants from '../screens/Restaurants'
-import Account from '../screens/Account'
+import Account from '../screens/account/Account'
 import TopRestaurants from '../screens/TopRestaurants'
 import Search from '../screens/Search'
 import Favorites from '../screens/Favorites'
