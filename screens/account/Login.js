@@ -19,7 +19,7 @@ export default function Login() {
             <View
                 style={styles.container}
             >
-                <LoginForm/>
+               <LoginForm/>
                <CreateAccount/>
             </View>
             <Divider style={styles.divider}/>
