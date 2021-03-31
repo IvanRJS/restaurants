@@ -4,11 +4,6 @@ import {createBottomTabNavigator} from '@react-navigation/bottom-tabs'
 import { Icon } from 'react-native-elements'
 
 
-import Restaurants from '../screens/Restaurants'
-import Account from '../screens/account/Account'
-import TopRestaurants from '../screens/TopRestaurants'
-import Search from '../screens/Search'
-import Favorites from '../screens/Favorites'
 import RestaurantsStack from './RestaurantsStack'
 import AccountStack from './AccountStack'
 import FavoritesStack from './FavoritesStack'
