@@ -15,7 +15,7 @@ export default function AddRestaurant({navigation}) {
             <AddRestaurantForm 
             toastRef={toastRef} 
             setLoading={setLoading}
-            navigation
+            navigation={navigation}
             />
             <Loading isVisible={loading} text="Creando restaurante" />
             <Toast ref={toastRef} position="center" opacity={0.9}/>
